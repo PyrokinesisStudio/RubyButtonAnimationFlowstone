@@ -1,11 +1,10 @@
 # RubyButtonAnimationFlowstone
 Ruby bitmap button looping animation
 
-#########################################################################
 # Ruby bitmap button looping animation by Faxi Nadu
 # http://www.faxinadu.net
 # http://www.oceanswift.net 
-##########################################################################
+
 # - Resize all bitmaps quickly by setting the size variable in the draw method.
 # - Set the animation time by setting the @rate variable. Minimum 0.1
 #
@@ -16,6 +15,4 @@ Ruby bitmap button looping animation
 # 4) Increment @on in the new "when" by 1.
 # 5) Make sure the last "when" sets @on to 1 so the animation loops.
 #
-# Once saved within a schematic, when the schematic is loaded the animation 
-# will run automatically.
-##########################################################################
+# Once saved within a schematic, when the schematic is loaded the animation will run automatically.
