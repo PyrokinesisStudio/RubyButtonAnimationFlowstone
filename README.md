@@ -1,6 +1,10 @@
 # RubyButtonAnimationFlowstone
 Ruby bitmap button looping animation
 
+<div align="center">
+<img src= http://www.faxinadu.net/images/animA.png img>
+</div>
+
 # Ruby bitmap button looping animation by Faxi Nadu
 # http://www.faxinadu.net
 # http://www.oceanswift.net 
@@ -16,3 +20,7 @@ Ruby bitmap button looping animation
 # 5) Make sure the last "when" sets @on to 1 so the animation loops.
 #
 # Once saved within a schematic, when the schematic is loaded the animation will run automatically.
+
+<div align="center">
+<img src= http://www.faxinadu.net/images/animB.png img>
+</div>
