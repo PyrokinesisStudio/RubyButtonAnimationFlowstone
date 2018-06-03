@@ -5,7 +5,7 @@ Ruby bitmap button looping animation
 <img src= http://www.faxinadu.net/images/animA.png img>
 </div>
 
-# Ruby bitmap button looping animation by Faxi Nadu
+# Ruby bitmap button looping animation
 # http://www.faxinadu.net
 # http://www.oceanswift.net 
 
