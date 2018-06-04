@@ -19,7 +19,7 @@
 
 def init
 	@on = 1
-	@rate = 0.1
+	@my_rate = 0.1
 end
 
 def draw i,v
@@ -99,7 +99,7 @@ def event i,v,t
 	end
 	
 	output 0,i
-	input 1,output,t+@rate
+	input 1,output,t+@my_rate
 	end
 	
 end
