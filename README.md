@@ -6,8 +6,6 @@ Ruby bitmap button looping animation
 </div>
 
 # Ruby bitmap button looping animation
-# http://www.faxinadu.net
-# http://www.oceanswift.net 
 
 # - Resize all bitmaps quickly by setting the size variable in the draw method.
 # - Set the animation time by setting the @rate variable. Minimum 0.1
